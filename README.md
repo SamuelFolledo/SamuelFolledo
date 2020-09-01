@@ -1,7 +1,3 @@
-
- 
-
-
 <h1>Welcome to my GitHub page! </h1>
 
 [![Linkedin: Samuel Folledo](https://img.shields.io/badge/-SamuelFolledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samuelfolledo/)](https://linkedin.com/in/samuelfolledo)
@@ -13,9 +9,11 @@ Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https
 
 <img src="https://github-readme-stats.vercel.app/api?username=SamuelFolledo&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFolledo&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="languages" height="165">
 
+<!--- Previous GitHub Stats
 <a href="https://github.com/SamuelFolledo/SamuelFolledo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelFolledo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Samuel Folledo's Stats" />
 </a>
+--->
 
 <h3>Top stack</h3>
 <p>
@@ -30,10 +28,11 @@ Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https
 [![Go](https://img.shields.io/badge/go-lightblue)](https://golang.org/)
 </p>
 
+<!--- Previous GitHub Stats
 <a href="https://github.com/SamuelFolledo/SamuelFolledo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFolledo&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+--->
 
 <h3>Open source projects</h3>
 <table>
