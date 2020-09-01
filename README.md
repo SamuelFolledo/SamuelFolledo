@@ -17,6 +17,7 @@ Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https
 
 <h3>Top stack</h3>
 <p>
+
 [![Swift](https://img.shields.io/badge/swift-red.svg)](https://github.com/apple/swift)
 [![Firebase](https://img.shields.io/badge/firebase-orange)](https://firebase.google.com/i)
 [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/)
