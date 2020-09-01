@@ -4,8 +4,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/SamuelFolledo?label=Follow&style=social)
 ![Total Visits](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-
 Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> I am an <b>iOS developer</b> [![swift-version](https://img.shields.io/badge/swift-red.svg)](https://github.com/apple/swift) and a <b>data scientist</b> [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/) who does nothing but code, play basketball, eat, and sleep.
+
+<h3>Current Status</h3>
+- iOS Engineer at [Bolar Score](https://apps.apple.com/us/app/bolar-score/id1500156541) [![Bolar Score](https://static1.squarespace.com/static/5e0f9fa9c43b86108a5a66eb/t/5e0fcf2461066d7f81e8d2dc/1596151438353/?format=1500w)](https://www.bolarscore.com/)
+- Student student at [Make School](https://www.makeschool.com/) in Mobile and Data Science track
+- Mobile Development Teacher's Assistant at [Make School](https://www.makeschool.com/) <img src="https://static1.squarespace.com/static/5e0f9fa9c43b86108a5a66eb/t/5e0fcf2461066d7f81e8d2dc/1596151438353/" width="30"/>
+- [portfolio](https://www.makeschool.com/portfolio/samuelfolledo)
+
+https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg
 
 <h3>Top stack</h3>
 <p>
