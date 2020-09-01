@@ -32,6 +32,8 @@ Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFolledo&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<img src="https://github-readme-stats.vercel.app/api?username=hedythedev&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedythedev&layout=compact&theme=buefy" alt="languages" height="165">
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
