@@ -8,23 +8,15 @@
 
 <h3>Top stack</h3>
 <p>
-[![Swift](https://img.shields.io/badge/swift-brightgreen.svg)](https://github.com/apple/swift) 
 
-[![SwitfUI](https://img.shields.io/badge/swiftui-brightgreen)](https://developer.apple.com/documentation/swiftui)
-
-[Firebase](https://img.shields.io/badge/firebase-orange)](https://firebase.google.com/i)
-
+[![Swift](https://img.shields.io/badge/swift-brightgreen.svg)](https://github.com/apple/swift) [![SwitfUI](https://img.shields.io/badge/swiftui-brightgreen)](https://developer.apple.com/documentation/swiftui)
+[![Firebase](https://img.shields.io/badge/firebase-orange)](https://firebase.google.com/i)
 [![Python 3](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org/downloads/release/python-360/)
-
-[Numpy](https://img.shields.io/badge/numpy-red)](https://numpy.org/)
-
-[SciKitLearn](https://img.shields.io/badge/scikitlearn-darkgreen)](https://scikit-learn.org/stable/)
-
-[Pandas](https://img.shields.io/badge/pandas-black)](https://pandas.pydata.org/)
-
-[MatPlotLib](https://img.shields.io/badge/matplotlib-magenta)](https://matplotlib.org/)
-
-[Go](https://img.shields.io/badge/go-lightblue)](https://golang.org/)
+[![Numpy](https://img.shields.io/badge/numpy-red)](https://numpy.org/)
+[![SciKitLearn](https://img.shields.io/badge/scikitlearn-darkgreen)](https://scikit-learn.org/stable/)
+[![Pandas](https://img.shields.io/badge/pandas-black)](https://pandas.pydata.org/)
+[![MatPlotLib](https://img.shields.io/badge/matplotlib-magenta)](https://matplotlib.org/)
+[![Go](https://img.shields.io/badge/go-lightblue)](https://golang.org/)
 </p>
 
 <h3>Open source projects</h3>
