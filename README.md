@@ -6,12 +6,11 @@
 
 [![Linkedin: Samuel Folledo](https://img.shields.io/badge/-SamuelFolledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samuelfolledo/)](https://linkedin.com/in/samuelfolledo)
 ![GitHub followers](https://img.shields.io/github/followers/SamuelFolledo?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=SamuelFolledo.SamuelFolledo)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Total Visits](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 
-Hey! I am Samuel P. Folledo, future Apple and Tesla Inc owner <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> I am an <b>iOS developer</b> [![swift-version](https://img.shields.io/badge/swift-brightgreen.svg)](https://github.com/apple/swift) and a <b>data scientist</b> [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) who does nothing but code, play basketball, eat, and sleep.
+Hey! I am Samuel P. Folledo, future Apple and Tesla Inc owner <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> I am an <b>iOS developer</b> [![swift-version](https://img.shields.io/badge/swift-brightgreen.svg)](https://github.com/apple/swift) and a <b>data scientist</b> [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/) who does nothing but code, play basketball, eat, and sleep.
 
 <h3>Top stack</h3>
 <p>
