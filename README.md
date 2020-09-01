@@ -14,7 +14,7 @@
 [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![SciKitLearn](https://img.shields.io/badge/scikitlearn-darkgreen)](https://scikit-learn.org/stable/)
 [![Numpy](https://img.shields.io/badge/numpy-red)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/pandas-black)](https://pandas.pydata.org/)
+[![Pandas](https://img.shields.io/badge/pandas-brightgreen)](https://pandas.pydata.org/)
 [![MatPlotLib](https://img.shields.io/badge/matplotlib-magenta)](https://matplotlib.org/)
 [![Go](https://img.shields.io/badge/go-lightblue)](https://golang.org/)
 </p>
@@ -37,6 +37,20 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/SamuelFolledo/StringsUtility?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/SamuelFolledo/StringsUtility?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SamuelFolledo/StringsUtility?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/SamuelFolledo/UserAuth-Starter"><b>UserAuth-Starter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SamuelFolledo/UserAuth-Starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SamuelFolledo/UserAuth-Starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SamuelFolledo/UserAuth-Starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SamuelFolledo/UserAuth-Starter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/SamuelFolledo/SnailMail"><b>SnailMail</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SamuelFolledo/SnailMail?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SamuelFolledo/SnailMail?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SamuelFolledo/SnailMail?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SamuelFolledo/SnailMail?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
