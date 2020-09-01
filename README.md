@@ -16,23 +16,9 @@ Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https
 <a href="https://github.com/SamuelFolledo/SamuelFolledo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFolledo&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/SamuelFolledo/SamuelFolledo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelFolledo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/SamuelFolledo/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelFolledo&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/SamuelFolledo/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamuelFolledo&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
 
 <h3>Top stack</h3>
 <p>
-
 [![Swift](https://img.shields.io/badge/swift-red.svg)](https://github.com/apple/swift)
 [![Firebase](https://img.shields.io/badge/firebase-orange)](https://firebase.google.com/i)
 [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/)
@@ -42,6 +28,10 @@ Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https
 [![MatPlotLib](https://img.shields.io/badge/matplotlib-magenta)](https://matplotlib.org/)
 [![Go](https://img.shields.io/badge/go-lightblue)](https://golang.org/)
 </p>
+
+<a href="https://github.com/SamuelFolledo/SamuelFolledo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelFolledo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Samuel Folledo's Stats" />
+</a>
 
 <h3>Open source projects</h3>
 <table>
