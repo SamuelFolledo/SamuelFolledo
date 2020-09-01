@@ -9,9 +9,11 @@ Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https
 <h3>Current Status</h3>
 - iOS Engineer at [Bolar Score](https://apps.apple.com/us/app/bolar-score/id1500156541) <img src="https://static1.squarespace.com/static/5e0f9fa9c43b86108a5a66eb/t/5e0fcf2461066d7f81e8d2dc/1596151438353/" width="30"/>
 
-- Student student at [Make School](https://www.makeschool.com/) in Mobile and Data Science track
+- Student student at [![Make School](https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg)](https://www.makeschool.com/) in Mobile and Data Science track
 
 - Mobile Development Teacher's Assistant at [Make School](https://www.makeschool.com/) <img src="https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg" width="30"/>
+
+
 
 - [portfolio](https://www.makeschool.com/portfolio/samuelfolledo)
 
