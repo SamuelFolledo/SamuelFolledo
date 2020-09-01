@@ -7,13 +7,11 @@
 Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> I am an <b>iOS developer</b> [![swift-version](https://img.shields.io/badge/swift-red.svg)](https://github.com/apple/swift) and a <b>data scientist</b> [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/) who does nothing but code, play basketball, eat, and sleep.
 
 <h3>Current Status</h3>
-- iOS Engineer at <a href="https://apps.apple.com/us/app/bolar-score/id1500156541">Bolar Score</a> <a href="https://www.makeschool.com/"><img src="https://static1.squarespace.com/static/5e0f9fa9c43b86108a5a66eb/t/5e0fcf2461066d7f81e8d2dc/1596151438353/" width="40" /></a>
+- <b>iOS Engineer<b> at <a href="https://apps.apple.com/us/app/bolar-score/id1500156541">Bolar Score</a> <a href="https://www.makeschool.com/"><img src="https://static1.squarespace.com/static/5e0f9fa9c43b86108a5a66eb/t/5e0fcf2461066d7f81e8d2dc/1596151438353/" width="20" /></a>
 
-[Bolar Score](https://apps.apple.com/us/app/bolar-score/id1500156541) <img src="https://static1.squarespace.com/static/5e0f9fa9c43b86108a5a66eb/t/5e0fcf2461066d7f81e8d2dc/1596151438353/" width="30"/>
+- <p> <b>College student (class of 2021)<b> at <a href="https://www.makeschool.com/"><img src="https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg" width="75" /></a> in Mobile Development and Data Science track </p>
 
-- <p> College student (class of 2021) at <a href="https://www.makeschool.com/"><img src="https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg" width="75" /></a> in Mobile Development and Data Science track </p>
-
-- Mobile Development Teacher's Assistant at [Make School](https://www.makeschool.com/) <img src="https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg" width="30"/> --> <a href="https://www.makeschool.com/portfolio/samuelfolledo">portfolio</a>
+- <p> Mobile Development <b>Teacher's Assistant<b> at <img src="https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg" width="75"/> → <a href="https://www.makeschool.com/portfolio/samuelfolledo">portfolio</a> </p>
 
 
 
