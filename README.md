@@ -4,7 +4,7 @@
 
 <h1>Welcome to my GitHub page! </h1>
 
-[![Linkedin: Samuel Folledo](https://img.shields.io/badge/-Samuel Folledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samuelfolledo/)](https://linkedin.com/in/samuelfolledo)
+[![Linkedin: Samuel Folledo](https://img.shields.io/badge/-SamuelFolledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samuelfolledo/)](https://linkedin.com/in/samuelfolledo)
 ![GitHub followers](https://img.shields.io/github/followers/SamuelFolledo?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=SamuelFolledo.SamuelFolledo)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
