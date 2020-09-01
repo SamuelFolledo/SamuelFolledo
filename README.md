@@ -10,7 +10,7 @@
 
 
 
-<p>Hey! I am Samuel P. Folledo, future Apple and Tesla Inc owner <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> I am an <b>iOS developer</b> [![swift-version](https://img.shields.io/badge/swift-brightgreen.svg)](https://github.com/apple/swift) as well as a <b>data scientist</b> [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) who does nothing but code, basketball, eat, and sleep.</p>
+Hey! I am Samuel P. Folledo, future Apple and Tesla Inc owner <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> I am an <b>iOS developer</b> [![swift-version](https://img.shields.io/badge/swift-brightgreen.svg)](https://github.com/apple/swift) as well as a <b>data scientist</b> [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) who does nothing but code, basketball, eat, and sleep.
 
 <h3>Top stack</h3>
 <p>
