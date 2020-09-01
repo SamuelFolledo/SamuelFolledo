@@ -8,6 +8,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/SamuelFolledo?label=Follow&style=social)
 ![Total Visits](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1391-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 
 Hey! I am Samuel P. Folledo, future Apple and Tesla Inc owner <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> I am an <b>iOS developer</b> [![swift-version](https://img.shields.io/badge/swift-brightgreen.svg)](https://github.com/apple/swift) and a <b>data scientist</b> [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/) who does nothing but code, play basketball, eat, and sleep.
