@@ -8,7 +8,8 @@ Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https
 
 
 <h3>Highlights and Current Status</h3>
-- <p> <b>College student (class of August 2021)</b> at <a href="https://www.makeschool.com/"><img src="https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg" width="75" /></a> in Mobile Development and Data Science track  → <a href="https://www.makeschool.com/portfolio/samuelfolledo">portfolio</a> </p>
+
+- <p><b>College student (class of August 2021)</b> at <a href="https://www.makeschool.com/"><img src="https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg" width="75" /></a> in Mobile Development and Data Science track  → <a href="https://www.makeschool.com/portfolio/samuelfolledo">portfolio</a> </p>
 
 - <p><b>Mobile Development Teaching Assistant</b> at <img src="https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg" width="75"/></p>
 
