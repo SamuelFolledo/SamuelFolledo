@@ -10,20 +10,20 @@ Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https
 <h3>Current Status</h3>
 
 - <p><b>iOS Software Engineer</b> at <a href="https://apps.apple.com/us/app/bolar-score/id1500156541">Bolar Score</a> <a href="https://www.bolarscore.com/"><img src="https://static1.squarespace.com/static/5e0f9fa9c43b86108a5a66eb/t/5e0fcf2461066d7f81e8d2dc/1596151438353/" width="20" /></a> </p>
-  - <p>•    <b>Promoted from summer intern to a permanent role</p>
-  - <p>•    Implemented a fully functioning chat feature between tenants and landlords</p>
-  - <p>•    Implemented profile page</p>
-  - <p>•    Helped implement landlord reward system and other useful features and bug fixes</p>
+    <p>•  <b>Promoted from summer intern to a permanent role</p>
+    <p>•  Implemented a fully functioning chat feature between tenants and landlords</p>
+    <p>•  Implemented profile page</p>
+    <p>•  Helped implement landlord reward system and other useful features and bug fixes</p>
 
 - <p><b>iOS Software Engineer</b> at Multiverse</p>
-  <p>•    Contract solo developer</p>
-  <p>•    Implemented most of the features which includes: user authentication, real-time audio player for multi users</p>
-  <p>•    SwiftUI and MVVM architecture</p>
+    <p>•  Contract solo developer</p>
+    <p>•  Implemented most of the features which includes: user authentication, real-time audio player for multi users</p>
+    <p>•  SwiftUI and MVVM architecture</p>
 
 - <p><b>Product Manager and Tech Lead</b> at StrepScan</p>
-  <p>•    As the PM, I gave clear instructions and deliverables to a team of 7 software engineers and 3 industry partners enabling smooth development and communication in meetings.</p>
-  <p>•    As the Tech Lead, I coached and pair programmed with other software engineers to debug or help foresee potential blockers and</p>
-  <p>•    <b>Developed the AI to detech throat parts and display it live in the iOS app</b> by labeling images using IBM Cloud Annotations, trained and created a YOLO CNN model using TuriCreate library, using Apple's AVKit and MLKit to display a bounding box and the predicted label around the throat parts.</p>
+    <p>•  As the PM, I gave clear instructions and deliverables to a team of 7 software engineers and 3 industry partners enabling smooth development and communication in meetings.</p>
+    <p>•  As the Tech Lead, I coached and pair programmed with other software engineers to debug or help foresee potential blockers and</p>
+    <p>•  <b>Developed the AI to detech throat parts and display it live in the iOS app</b> by labeling images using IBM Cloud Annotations, trained and created a YOLO CNN model using TuriCreate library, using Apple's AVKit and MLKit to display a bounding box and the predicted label around the throat parts.</p>
 
 - <p><b>Mobile Development Teacher's Assistant</b> at <img src="https://www.makeschool.com/assets/main/logos/makeschool-logo-blue-8c756700cd863890dc6425231799c7d734b1ef69cdf1b42c5f111dc3b3ed5c46.svg" width="75"/></p>
 
