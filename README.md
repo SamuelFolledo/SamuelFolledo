@@ -9,11 +9,11 @@ Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https
 
 <h3>Highlights and Current Status</h3>
 
-- <p><b>iOS Engineer at Garmin (August 2021)</b> in consumer automotive team in Chandler, AZ
+- <p><b>iOS Engineer at <a href="https://www.garmin.com/en-US/"><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s](http://www.clker.com/clipart-468279.html)" width="75" /></a> (August 2021)</b> in consumer automotive team in Chandler, AZ
 
-- <p><b>College student (class of August 2021)</b> at <a href="https://www.makeschool.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="75" /></a> in Mobile Development and Data Science track
+- <p><b>College student (class of August 2021)</b> at <a href="https://www.makeschool.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="25" /></a> in Mobile Development and Data Science track
 
-- <p><b>Mobile Development Teaching Assistant</b> at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="75"/></p>
+- <p><b>Mobile Development Teaching Assistant</b> at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="25"/></p>
 
 - <p><b>iOS Software Engineer</b> at <a href="https://apps.apple.com/us/app/bolar-score/id1500156541">Bolar Score</a> <a href="https://www.bolarscore.com/"><img src="https://static1.squarespace.com/static/5e0f9fa9c43b86108a5a66eb/t/5e0fcf2461066d7f81e8d2dc/1596151438353/" width="20" /></a> </p>
     <p>•  <b>Promoted from summer intern to a permanent role</p>
