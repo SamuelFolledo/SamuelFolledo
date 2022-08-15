@@ -7,7 +7,7 @@
 Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> I am an <b>iOS developer</b> [![swift-version](https://img.shields.io/badge/swift-red.svg)](https://github.com/apple/swift) and a <b>data scientist</b> [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/) who does nothing but code, play basketball, eat, and sleep.
 
 
-<h3>Highlights and Current Status</h3>
+<h3>Highlights</h3>
 
 - <p><b>iOS Engineer at <a href="https://www.garmin.com/en-US/"><img src="https://www.clker.com/cliparts/9/8/9/0/15137766361861255637garmin-logo-white.med.png" width="75" /></a> (August 2021)</b> in consumer automotive team in Chandler, AZ
 
@@ -15,6 +15,7 @@ Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https
 
 - <p><b>Mobile Development Teaching Assistant</b> at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="25"/></p>
 
+<h3>Previous Experience</h3>
 - <p><b>iOS Software Engineer</b> at <a href="https://apps.apple.com/us/app/bolar-score/id1500156541">Bolar Score</a> <a href="https://www.bolarscore.com/"><img src="https://static1.squarespace.com/static/5e0f9fa9c43b86108a5a66eb/t/5e0fcf2461066d7f81e8d2dc/1596151438353/" width="20" /></a> </p>
     <p>•  <b>Promoted from summer intern to a permanent role</p>
     <p>•  Implemented a fully functioning chat feature between tenants and landlords</p>
