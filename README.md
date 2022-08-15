@@ -9,7 +9,7 @@ Hey! I am pinoy and I will be the future Apple and Tesla Inc CTO <img src="https
 
 <h3>Highlights and Current Status</h3>
 
-- <p><b>iOS Engineer at <a href="https://www.garmin.com/en-US/"><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s](http://www.clker.com/clipart-468279.html)" width="75" /></a> (August 2021)</b> in consumer automotive team in Chandler, AZ
+- <p><b>iOS Engineer at <a href="https://www.garmin.com/en-US/"><img src="https://www.clker.com/cliparts/9/8/9/0/15137766361861255637garmin-logo-white.med.png" width="75" /></a> (August 2021)</b> in consumer automotive team in Chandler, AZ
 
 - <p><b>College student (class of August 2021)</b> at <a href="https://www.makeschool.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="25" /></a> in Mobile Development and Data Science track
 
