@@ -2,8 +2,10 @@
 
 [![Linkedin: Samuel Folledo](https://img.shields.io/badge/-SamuelFolledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samuelfolledo/)](https://linkedin.com/in/samuelfolledo)
 ![GitHub followers](https://img.shields.io/github/followers/SamuelFolledo?label=Follow&style=social)
+
 ![Total Visits](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SamuelFolledo.visitor-badge)
+![visitors2](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 [![swift-version](https://img.shields.io/badge/swift-red.svg)](https://github.com/apple/swift) 
 
