@@ -4,21 +4,22 @@
 ![GitHub followers](https://img.shields.io/github/followers/SamuelFolledo?label=Follow&style=social)
 ![Total Visits](https://badges.pufler.dev/visits/SamuelFolledo/SamuelFolledo)
 
-Best Programming Language
+Top Programming Language
 [![swift-version](https://img.shields.io/badge/swift-red.svg)](https://github.com/apple/swift) 
 [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![C++](https://img.shields.io/badge/-c++-black)
 
-My focus in developing mobile apps for Apple products that utilizes AI, machine learning, AR/VR, APIs, libraries, and new technologies.
+My focus in developing mobile apps for Apple products that utilizes AI, machine learning, AR/VR, APIs, libraries, bluetooth communications, and other technologies.
 As a software engineer, nothing makes me happier than creating features and products that positively impacts as much people as possible. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> 
 Adept on developing internal tools, scripts, REST APIs, Firebase services, AppleScript, automation, and a Data Science tasks
 
 
 <h3>Highlights</h3>
+- <p><b>Software Engineer II at <a href="https://www.garmin.com/en-US/"><img src="https://www.clker.com/cliparts/9/8/9/0/15137766361861255637garmin-logo-white.med.png" width="75" /></a> (August 2021-present)</b> in consumer automotive mobile application team in Chandler, AZ. Mostly worked on Garmin's apps like Drive, Tread, and Explore
 
-- <p><b>Software Engineer II at <a href="https://www.garmin.com/en-US/"><img src="https://www.clker.com/cliparts/9/8/9/0/15137766361861255637garmin-logo-white.med.png" width="75" /></a> (August 2021-present)</b> in consumer automotive mobile application team in Chandler, AZ. Mostly worked on Garmin's Drive, Tread, and Explore app
+- <p><b>Software Engineer</b> at multiple small to medium size companies like Bolar, StrepScan, Multiverse, and ElevatedEra</p>
 
-- <p><b>College student (class of 2021)</b> at <a href="https://www.makeschool.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="25" /></a> in Mobile Development and Data Science track
+- <p><b>BS degree in Computer Science from Domincan University of California (2021)</b> <a href="https://www.dominican.edu/"><img src="https://www.dominican.edu/themes/custom/dominican/assets/img/logo-black.svg" width="25"/></a> in Mobile Development and Data Science track at a San Francisco, CA campus <a href="https://www.makeschool.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="25" /></a>
 
 - <p><b>Mobile Development Teacher's Assistant</b> at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="25"/></p>
 
