@@ -2,19 +2,16 @@
 
 [![Linkedin: Samuel Folledo](https://img.shields.io/badge/-SamuelFolledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samuelfolledo/)](https://linkedin.com/in/samuelfolledo)
 ![GitHub followers](https://img.shields.io/github/followers/SamuelFolledo?label=Follow&style=social)
+![Total Visits](https://badges.pufler.dev/visits/SamuelFolledo/SamuelFolledo)
 
-![Total Visits](https://visitor-badge.glitch.me/badge?page_id=page.id)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=SamuelFolledo.visitor-badge)
-![visitors2](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-![Visitor Count](https://profile-counter.glitch.me/SamuelFolledo/count.svg)
-
-![Visits Badge](https://badges.pufler.dev/visits/SamuelFolledo/SamuelFolledo)
-
+Best Programming Language
 [![swift-version](https://img.shields.io/badge/swift-red.svg)](https://github.com/apple/swift) 
+[![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)]
 
 My focus in developing mobile apps for Apple products that utilizes AI, machine learning, AR/VR, APIs, libraries, and new technologies.
 As a software engineer, nothing makes me happier than creating features and products that positively impacts as much people as possible. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> 
-Adept on developing internal tools, scripts, REST APIs, Firebase services, AppleScript, automation, and a Data Science tasks [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/)
+Adept on developing internal tools, scripts, REST APIs, Firebase services, AppleScript, automation, and a Data Science tasks
 
 
 <h3>Highlights</h3>
