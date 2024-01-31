@@ -7,7 +7,7 @@
 Best Programming Language
 [![swift-version](https://img.shields.io/badge/swift-red.svg)](https://github.com/apple/swift) 
 [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/)
-[![C++](https://img.shields.io/badge/-c++-black)]
+![C++](https://img.shields.io/badge/-c++-black)
 
 My focus in developing mobile apps for Apple products that utilizes AI, machine learning, AR/VR, APIs, libraries, and new technologies.
 As a software engineer, nothing makes me happier than creating features and products that positively impacts as much people as possible. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> 
