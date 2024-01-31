@@ -2,7 +2,7 @@
 
 [![Linkedin: Samuel Folledo](https://img.shields.io/badge/-SamuelFolledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samuelfolledo/)](https://linkedin.com/in/samuelfolledo)
 ![GitHub followers](https://img.shields.io/github/followers/SamuelFolledo?label=Follow&style=social)
-![Total Visits](https://badges.pufler.dev/visits/SamuelFolledo/SamuelFolledo)
+![Visitors](https://badges.pufler.dev/visits/SamuelFolledo/SamuelFolledo)
 
 Top Programming Language
 [![swift-version](https://img.shields.io/badge/swift-red.svg)](https://github.com/apple/swift) 
@@ -15,11 +15,12 @@ Adept on developing internal tools, scripts, REST APIs, Firebase services, Apple
 
 
 <h3>Highlights</h3>
+
 - <p><b>Software Engineer II at <a href="https://www.garmin.com/en-US/"><img src="https://www.clker.com/cliparts/9/8/9/0/15137766361861255637garmin-logo-white.med.png" width="75" /></a> (August 2021-present)</b> in consumer automotive mobile application team in Chandler, AZ. Mostly worked on Garmin's apps like Drive, Tread, and Explore
 
 - <p><b>Software Engineer</b> at multiple small to medium size companies like Bolar, StrepScan, Multiverse, and ElevatedEra</p>
 
-- <p><b>BS degree in Computer Science from Domincan University of California (2021)</b> <a href="https://www.dominican.edu/"><img src="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/en/0/03/DU_shield.gif&w=640&q=50" width="25"/></a> in Mobile Development and Data Science track at a San Francisco, CA campus <a href="https://www.makeschool.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="25" /></a>
+- <p><b>BS degree in Computer Science </b> from Domincan University of California (2021) <a href="https://www.dominican.edu/"><img src="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/en/0/03/DU_shield.gif&w=640&q=50" width="25"/></a> in Mobile Development and Data Science from <a href="https://www.makeschool.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="25" /></a> at a San Francisco, CA campus
 
 - <p><b>Mobile Development Teacher's Assistant</b> at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="25"/></p>
 
