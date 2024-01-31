@@ -8,6 +8,8 @@
 ![visitors2](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 ![Visitor Count](https://profile-counter.glitch.me/SamuelFolledo/count.svg)
 
+![Visits Badge](https://badges.pufler.dev/visits/SamuelFolledo/SamuelFolledo)
+
 [![swift-version](https://img.shields.io/badge/swift-red.svg)](https://github.com/apple/swift) 
 
 My focus in developing mobile apps for Apple products that utilizes AI, machine learning, AR/VR, APIs, libraries, and new technologies.
