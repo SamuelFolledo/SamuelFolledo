@@ -3,22 +3,26 @@
 [![Linkedin: Samuel Folledo](https://img.shields.io/badge/-SamuelFolledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/samuelfolledo/)](https://linkedin.com/in/samuelfolledo)
 ![GitHub followers](https://img.shields.io/github/followers/SamuelFolledo?label=Follow&style=social)
 ![Total Visits](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
-I focus in developing mobile apps for Apple products that utilizes AI, machine learning, AR/VR, and new technologies. [![swift-version](https://img.shields.io/badge/swift-red.svg)](https://github.com/apple/swift) As a software engineer, nothing makes me happier than creating features and products that positively impacts as much people as possible. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> 
+[![swift-version](https://img.shields.io/badge/swift-red.svg)](https://github.com/apple/swift) 
+
+My focus in developing mobile apps for Apple products that utilizes AI, machine learning, AR/VR, APIs, libraries, and new technologies.
+As a software engineer, nothing makes me happier than creating features and products that positively impacts as much people as possible. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </br> 
 Adept on developing internal tools, scripts, REST APIs, Firebase services, AppleScript, automation, and a Data Science tasks [![Python](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 
 <h3>Highlights</h3>
 
-- <p><b>Software Engineer at <a href="https://www.garmin.com/en-US/"><img src="https://www.clker.com/cliparts/9/8/9/0/15137766361861255637garmin-logo-white.med.png" width="75" /></a> (August 2021-present)</b> in consumer automotive mobile application team in Chandler, AZ
+- <p><b>Software Engineer II at <a href="https://www.garmin.com/en-US/"><img src="https://www.clker.com/cliparts/9/8/9/0/15137766361861255637garmin-logo-white.med.png" width="75" /></a> (August 2021-present)</b> in consumer automotive mobile application team in Chandler, AZ. Mostly worked on Garmin's Drive, Tread, and Explore app
 
 - <p><b>College student (class of 2021)</b> at <a href="https://www.makeschool.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="25" /></a> in Mobile Development and Data Science track
 
 - <p><b>Mobile Development Teacher's Assistant</b> at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWsSSQpHTs0svsguk1p3gyicXBkQce10rjoBipYx7Ag&s" width="25"/></p>
 
 
-
 <h3>Previous Experience</h3>
+
 - <p><b>Software Engineer II</b> at <a href="https://www.garmin.com/en-US/">Garmin Internation</a> <a href="http://garmin.com/"><img src="https://creative.garmin.com/styleguide/img/resources__garmin-logo-with-delta.svg" width="20"/></a></p>
     <p>•  Design and develop new features, fix bugs, refactor legacy code, wrote documentation, and collaborate across multiple teams, and mentored colleagues</p>
     <p>•  Utilized Djinni and C++ to create cross-platform APIs for iOS and Android applications</p>
@@ -52,6 +56,7 @@ Adept on developing internal tools, scripts, REST APIs, Firebase services, Apple
     <p>•  As the PM, I gave clear instructions and deliverables to a team of 7 software engineers and 3 industry partners enabling smooth development and communication in meetings.</p>
     <p>•  As the lead engineer, I coached and pair programmed with other software engineers to debug or help foresee potential blockers and</p>
     <p>•  <b>Developed the AI to detech throat parts and display it live in the iOS app</b> by labeling images using IBM Cloud Annotations, trained and created a YOLO CNN model using TuriCreate library, using Apple's AVKit and MLKit to display a bounding box and the predicted label around the throat parts.</p>
+
 
 <h3>Top stack</h3>
 <p>
