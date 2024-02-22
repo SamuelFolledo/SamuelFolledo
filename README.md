@@ -27,7 +27,7 @@ Adept on developing internal tools, scripts, REST APIs, Firebase services, Apple
 
 
 <h2>Work Experience</h2>
-<h3>Software Engineer 2 at <a href="https://www.garmin.com/en-US/">Garmin Internation</a> <a href="http://garmin.com/"><img src="https://creative.garmin.com/styleguide/img/resources__garmin-logo-with-delta.svg" width="20"/></a></h3>
+<h3>Software Engineer 2 at <a href="https://www.garmin.com/en-US/">Garmin International</a> <a href="http://garmin.com/"><img src="https://creative.garmin.com/styleguide/img/resources__garmin-logo-with-delta.svg" width="20"/></a></h3>
     <p>•  Design and develop new features, fix bugs, refactor legacy code, wrote documentation, and collaborate across multiple teams, and mentored colleagues</p>
     <p>•  Utilized Djinni and C++ to create cross-platform APIs for iOS and Android applications</p>
     <p>•  Developed iOS apps using Swift, SwiftUI, and Objective-C that communicates with Garmin devices over Bluetooth Classic (BT), Bluetooth Low Energy (BLE), and Cross-Transport Key Derivation (CTKD)</p>
