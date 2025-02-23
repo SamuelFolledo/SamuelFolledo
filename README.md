@@ -17,7 +17,7 @@ Adept on developing internal tools, scripts, REST APIs, Firebase services, Apple
 
 <h2>Highlights</h2>
 
-- <p><b>Software Engineer 2 at <a href="https://www.garmin.com/en-US/"><img src="https://www.clker.com/cliparts/9/8/9/0/15137766361861255637garmin-logo-white.med.png" width="75" /></a> </b> in consumer automotive mobile application team in Chandler, AZ. Mostly worked on Garmin's apps like Drive, Tread, and Explore, however, other code I wrote and features implemented may have been added to other Garmin apps.
+- <p><b>Software Engineer 2 at <a href="https://www.garmin.com/en-US/"><img src="https://logos-world.net/garmin-logo/" width="75" /></a> </b> in consumer automotive mobile application team in Chandler, AZ. Mostly worked on Garmin's apps like Drive, Tread, and Explore, however, other code I wrote and features implemented may have been added to other Garmin apps.
 
 - <p><b>Software Engineer</b> at multiple small to medium size companies like Bolar, StrepScan, Multiverse, and ElevatedEra</p>
 
