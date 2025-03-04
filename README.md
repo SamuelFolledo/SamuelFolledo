@@ -27,6 +27,14 @@ Adept on developing internal tools, scripts, REST APIs, Firebase services, Apple
 
 
 <h2>Work Experience</h2>
+<h3>Varsity Tutors 12/2024 - Present</h3>
+    <p>•  Delivered tailored tutoring sessions instruction in mathematics, coding, and business-related coding/scripting lessons to meet individual various students' needs and learning styles
+
+<h3>Senior Software Engineer at iOnlyCode 02/2024 - Present</h3>
+    <p>•  Utilized Python and AppleScript to streamline the integration of 3D models and its animations</p>
+    <p>•  Architected an efficient design to reduce server costs and minimize device storage requirements</p>
+    <p>•  Implemented key features like real-time chat, match history, missions system, seasonal gameplay, player rating system, character progression, and robust matchmaking system</p>
+
 <h3>Software Engineer 2 at <a href="https://www.garmin.com/en-US/">Garmin International</a> <a href="http://garmin.com/"><img src="https://creative.garmin.com/styleguide/img/resources__garmin-logo-with-delta.svg" width="20"/></a> 08/2021 - 01/2024 </h3>
     <p>•  Design and develop new features, fix bugs, refactor legacy code, wrote documentation, and collaborate across multiple teams, and mentored colleagues</p>
     <p>•  Utilized Djinni and C++ to create cross-platform APIs for iOS and Android applications</p>
